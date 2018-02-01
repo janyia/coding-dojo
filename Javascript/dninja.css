@@ -1,0 +1,8 @@
+.wrapper{
+    background-color: lightblue;
+    width: 850px;
+}
+.wrapper img{
+    display: inline-block;
+    width: 200px;
+}
